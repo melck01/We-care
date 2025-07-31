@@ -1,6 +1,6 @@
 <h1 align="center">We Care</h1>
 
-<h2 align="center">Olá! Este projeto foi desenvolvido durante meu curso como devenvolvedor front end pela Devclub!</h2>
+<h2 align="center">Olá! Este projeto foi desenvolvido durante meu curso como devenvolvedor front end pela <a href="https://lp.devclub.com.br/devclub-oficial" target="_blank">Devclub!</a></h2>
 
 <h3 align="center">As tecnologias utilizadas foram:</h3>
 
